@@ -1,7 +1,7 @@
 <h1>Expenditure and Income Tracker</h1>
 <h3>This ASP.NET Core application simplifies the way you track your expenditures and earnings.<h3>
 
-
+<img src="wwwroot/Categories.png" alt="Categroies">
 
 <h1>Features</h1>
 <p>Custom Categories: Create your own categories for both expenses and income types.</p>
