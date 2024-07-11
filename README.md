@@ -5,6 +5,7 @@
 
 <h1>Features</h1>
 <p>Custom Categories: Create your own categories for both expenses and income types.</p>
+<img src="wwwroot/Edit_Category.png" alt="edit Categories">
 <p>Add Transactions: Easily add transactions to keep track of your financial activities.</p>
 <p>Visual Tracking: Utilize multiple charts to visualize your expenses and income.</p>
 <p>Navigation: Use the sidebar for seamless navigation through the application.</p>
