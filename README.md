@@ -46,4 +46,4 @@ Manage Data: Use the sidebar to navigate through different sections and manage y
 
 
 
-<h2>Feel free to modify the URLs and any other details specific to your project.<br></h2>
+
