@@ -17,11 +17,7 @@
 <h1>Getting Started</h1>
 <h2>Clone the Repository:</h2>
 
-<p>
-<h3>Bash<br></h3>
-git clone https://github.com/yourusername/expenditure-income-tracker.git<br>
-cd expenditure-income-tracker<br>
-</p>
+
 <h2>Setup:</h2>
 <p>
   
