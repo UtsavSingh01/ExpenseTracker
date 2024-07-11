@@ -12,6 +12,7 @@
 <img src="wwwroot/Home 2.png" alt="edit Categories">
 <p>Navigation: Use the sidebar for seamless navigation through the application.</p>
 <p>Edit and Delete: Enjoy the functionality to edit or delete your categories and transactions.</p>
+<img src="wwwroot/Categories.png" alt="edit Categories">
 
 <h1>Getting Started</h1>
 <h2>Clone the Repository:</h2>
