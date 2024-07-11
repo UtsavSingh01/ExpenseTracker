@@ -9,6 +9,7 @@
 <p>Add Transactions: Easily add transactions to keep track of your financial activities.</p>
 <img src="wwwroot/Transactions.png" alt="edit Categories">
 <p>Visual Tracking: Utilize multiple charts to visualize your expenses and income.</p>
+<img src="wwwroot/Home 2.png" alt="edit Categories">
 <p>Navigation: Use the sidebar for seamless navigation through the application.</p>
 <p>Edit and Delete: Enjoy the functionality to edit or delete your categories and transactions.</p>
 
